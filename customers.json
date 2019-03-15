@@ -1,0 +1,52 @@
+{ "customers" : [
+  {
+    "id" : 1,
+    "name" : "Jacquet",
+    "lastname" : "Jonathan",
+    "age" : 23,
+    "country" : "Burbure"
+  },
+  {
+    "id" : 2,
+    "name" : "Gérard",
+    "lastname" : "Menvusa",
+    "age" : 32,
+    "country" : "Lille"
+  },
+  {
+    "id" : 3,
+    "name" : "Sandy",
+    "lastname" : "Kilos",
+    "age" : 28,
+    "country" : "Arras"
+  },
+  {
+  "id" : 4,
+  "name" : "Tom",
+  "lastname" : "Anger",
+  "age" : 28,
+  "country" : "Lens"
+  },
+  {
+  "id" : 5,
+  "name" : "Jean",
+  "lastname" : "Tenrien",
+  "age" : 78,
+  "country" : "Dunkerque"
+  },
+  {
+  "id" : 6,
+  "name" : "Alex",
+  "lastname" : "Terrieur",
+  "age" : 28,
+  "country" : "Calais"
+  },
+  {
+  "id" : 7,
+  "name" : "Alex",
+  "lastname" : "Terrieur",
+  "age" : 51,
+  "country" : "Tourcoing"
+  }
+  ]
+}
